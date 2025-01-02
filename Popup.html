@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stop Using Social Media</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .main {
+      text-align: center;
+      background: #ffffff;
+      padding: 30px 40px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      max-width: 800px;
+      width: 100%;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      color: #e50914;
+      margin-bottom: 15px;
+    }
+
+    hr {
+      border: 0;
+      height: 3px;
+      background: #e50914;
+      width: 60%;
+      margin: 15px auto;
+    }
+
+    .site-list {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-auto-rows: 60px;
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .site-item {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .site-button {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-radius: 8px;
+      font-weight: bold;
+      text-transform: capitalize;
+      color: #fff;
+      cursor: pointer;
+      transition: transform 0.2s, box-shadow 0.2s;
+      font-size: 1rem;
+      text-decoration: none;
+      display: inline-block;
+      text-align: center;
+    }
+
+    .site-button:hover {
+      transform: scale(1.05);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .facebook { background-color: #4267B2; }
+    .netflix { background-color: #E50914; }
+    .instagram { background: linear-gradient(45deg, #F58529, #DD2A7B, #8134AF); }
+    .hotstar { background-color: #20232A; }
+    .crickbuzz { background-color: #008CFF; }
+    .snapchat { background-color: #FFFC00; color: #000; }
+    .telegram { background-color: #0088CC; }
+  </style>
+</head>
+<body>
+  <div class="main">
+    <h1>Stop Using Social Media</h1>
+    <hr />
+    <div class="site-list">
+      <div class="site-item">
+        <a href="https://www.facebook.com" class="site-button facebook" target="_blank">Facebook</a>
+      </div>
+      <div class="site-item">
+        <a href="https://www.netflix.com" class="site-button netflix" target="_blank">Netflix</a>
+      </div>
+      <div class="site-item">
+        <a href="https://www.instagram.com" class="site-button instagram" target="_blank">Instagram</a>
+      </div>
+      <div class="site-item">
+        <a href="https://www.hotstar.com" class="site-button hotstar" target="_blank">Hotstar</a>
+      </div>
+      <div class="site-item">
+        <a href="https://www.cricbuzz.com" class="site-button crickbuzz" target="_blank">Crickbuzz</a>
+      </div>
+      <div class="site-item">
+        <a href="https://www.snapchat.com" class="site-button snapchat" target="_blank">Snapchat</a>
+      </div>
+      <div class="site-item">
+        <a href="https://web.telegram.org" class="site-button telegram" target="_blank">Telegram</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
