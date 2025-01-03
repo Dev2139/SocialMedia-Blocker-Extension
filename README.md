@@ -65,4 +65,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-Made with ❤️ to enhance your YouTube experience!
+Made with ❤️ to enhance your Chrome experience!
