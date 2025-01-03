@@ -55,9 +55,9 @@ The **Productivity Booster** extension is designed to help you stay focused by b
 
 [![Watch the video](Proof/3.png)](Proof/Working.mp4)
 
-<!-- ## Linkedin Post Link
-https://www.linkedin.com/posts/dev-patel2139_chromeextension-youtubebookmarks-codingproject-activity-7280175363962331136-bxge?utm_source=share&utm_medium=member_desktop -->
+## Linkedin Post Link
 
+https://www.linkedin.com/posts/dev-patel2139_productivity-focusmode-digitalwellness-activity-7280876808864989186-RmYg?utm_source=share&utm_medium=member_desktop
 
 ## Contributing
 
